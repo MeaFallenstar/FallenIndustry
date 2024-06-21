@@ -1,0 +1,15 @@
+{
+  "name": "fallenindustry",
+  "version": "1.0.0",
+  "description": "Eve Online Industry Tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M'ea Fallenstar",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.2"
+  }
+}
